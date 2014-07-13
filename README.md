@@ -7,8 +7,8 @@ mining purposes. This task belongs to a data mining techniques named
 information extraction (IE). 
 
 This repo contains python codes for extracting various types of data 
-(tabular, non-tabular, plain text etc.) from from various web pages.   
-(The R codes to perform the exactly same tasks will be added soon).
+(tabular, non-tabular, plain text etc.) from from various web pages. 
+The R codes to perform the exactly same tasks will be added soon.
  
 
 The upcoming source codes will contain information extraction tricks 
