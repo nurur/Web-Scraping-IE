@@ -25,6 +25,9 @@ Note on the Hotness of a professor (www.ratemyprofessors.com) in
 ratingsJRC_prof.xlsx and ratingsUNI_prof.xlsx files:
 
 hotness = 3: Strong    (hotness >= 20)
+
 hotness = 2: Spicy     (hotness >= 10  and hotness < 20)
+
 hotness = 1: Seasoned  (hotness > 1 and hotness < 10)
+
 hotness = 0: Savory    (hotness = 0) 
