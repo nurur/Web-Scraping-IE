@@ -11,7 +11,7 @@ The R codes to perform the exactly same tasks will be added soon.
  
 
 The upcoming source codes will contain information extraction tricks 
-from the following pages:
+from the following page:
 
 1. http://www.fec.gov/finance/disclosure/srssea.shtml : This page 
 creates a table as an output but the tricky part is that the table 
@@ -20,15 +20,14 @@ in this repo can not be used to extract this dynamic table because
 they lack necessary tricks. This is a work in progress.   
  
 
-2. http://www.ratemyprofessors.com/toplists/topLists.jsp : This page 
-does not show data in the tabular form at all! I want to scrap the 
-page and want to create a table where each row will contain the name 
-of the professor and various attributes promoted in this web-page 
-such as quality, helpfulness, clarity, easiness, and hotness. My plan 
-is to use the data for hierarchical regression study. The hierarchical 
-regression assesses the significance of the inclusion or exclusion of 
-an attribute in a given model. This is work in progress.
- 
-
-
   
+Note on the Hotness of a professor (www.ratemyprofessors.com) in 
+ratingsJRC_prof.xlsx and ratingsUNI_prof.xlsx files:
+
+3: Strong    (hotness >= 20)
+
+2. Spicy     (hotness >= 10  and hotness < 20)
+
+1. Seasoned  (hotness > 1 and hotness < 10)
+
+0. Savory    (hotness = 0) 
