@@ -20,8 +20,11 @@ in this repo can not be used to extract this dynamic table because
 they lack necessary tricks. This is a work in progress.   
  
 
-  
-Note on the Hotness of a professor (www.ratemyprofessors.com) in 
+
+
+Note 1:
+
+The attribute hotness of a professor (www.ratemyprofessors.com) in 
 ratingsJRC_prof.xlsx and ratingsUNI_prof.xlsx files:
 
 hotness = 3: Strong    (hotness >= 20)
