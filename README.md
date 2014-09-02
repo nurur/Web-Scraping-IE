@@ -1,15 +1,16 @@
 WebScraping-IE
 ===============
-Web scraping is used to obtain structured and unstructured data from 
-the web and convert the data into structured format for various data 
-mining purposes. This task belongs to a data mining techniques named 
-information extraction (IE). 
+
+Web scraping is a data mining techniques which falls under the hood 
+of information extraction (IE). This method is used to obtain both 
+structured and unstructured data from the web. If the scrapped data 
+is unstructured it is then converted to structured format for various 
+data mining purposes. 
 
 This repo contains python codes for extracting various types of data 
 (tabular, non-tabular, plain text etc.) from from various web pages. 
 The R codes to perform the exactly same tasks will be added soon.
  
-
 The upcoming source codes will contain information extraction tricks 
 from the following page:
 
